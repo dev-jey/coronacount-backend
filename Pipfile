@@ -20,7 +20,6 @@ celery = "==4.3.0"
 django-heroku = "*"
 gunicorn = "*"
 webdriver-manager = "*"
-corsheaders = "*"
 django-cors-headers = "*"
 
 [requires]
