@@ -1,6 +1,8 @@
 # corona-tracker
 Track Corona virus cases
 
+Front end link: https://coronacount.netlify.com
+
 # Endpoints
 
 | Endpoint | route              | Method |  
