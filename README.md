@@ -3,6 +3,13 @@ Track Corona virus cases
 
 Front end link: https://coronacount.netlify.com
 
+# Technologies used
+- Django
+- DRF
+- Celery
+- Selenium
+- Pandas
+
 # Endpoints
 
 | Endpoint | route              | Method |  
